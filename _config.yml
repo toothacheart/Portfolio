@@ -1,1 +1,21 @@
+title: Aleks Art Studio
+description: Nail Art • Paintings • Fashion • 3D Art
+theme: jekyll-theme-minimal
 
+logo: /images/profile.png
+
+show_downloads: false
+
+social_links:
+  instagram: yourinstagram
+  github: yourgithub
+
+collections:
+  nails:
+    output: true
+  paintings:
+    output: true
+  clothing:
+    output: true
+  sculpture:
+    output: true
